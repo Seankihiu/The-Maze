@@ -32,4 +32,4 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
  left arrow key - to rotate the player in counter clock wise direction
  right arrow key - to rotate the player in clock wise direction
 
-# project Demo
+
